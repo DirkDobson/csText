@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/bin/Debug/netcoreapp2.1/csText.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/bin/Debug/netcoreapp2.1/csText.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/bin/Debug/netcoreapp2.1/csText.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/bin/Debug/netcoreapp2.1/csText.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/bin/Debug/netcoreapp2.1/csText.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/obj/Debug/netcoreapp2.1/csText.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/obj/Debug/netcoreapp2.1/csText.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/obj/Debug/netcoreapp2.1/csText.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/obj/Debug/netcoreapp2.1/csText.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/obj/Debug/netcoreapp2.1/csText.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/csText/obj/Debug/netcoreapp2.1/csText.pdb
